@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::cout << "Git and Docker lab" << std::endl;
+	std::cout << "Message from brach A" << std::endl;
 	return 0;
 }
